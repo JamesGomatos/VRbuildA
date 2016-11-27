@@ -1900,6 +1900,21 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d8d955bdcb9e2473abefab37135b5017, type: 3}
   m_IsPrefabParent: 0
+--- !u!1 &1722572367 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: d8d955bdcb9e2473abefab37135b5017, type: 3}
+  m_PrefabInternal: {fileID: 1722572366}
+--- !u!122 &1722572368
+Halo:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1722572367}
+  m_Enabled: 1
+  m_Color:
+    serializedVersion: 2
+    rgba: 4289720054
+  m_Size: 0.3
 --- !u!1001 &1734811341
 Prefab:
   m_ObjectHideFlags: 0

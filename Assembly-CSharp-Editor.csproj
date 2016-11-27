@@ -126,6 +126,7 @@
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\SampleAssets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\TiltShift.shader" />
+     <None Include="Assets\Shaders\Outlined_Diffuse.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\SSAOShader.shader" />
      <None Include="Assets\SampleAssets\Effects\ParticleSystems\ParticleSystemsGuidelines.txt" />
      <None Include="Assets\ScreenFader\Unlit Transparent HUD.shader" />
