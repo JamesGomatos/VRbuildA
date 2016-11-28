@@ -271,16 +271,19 @@
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\ShowAlphaChannel.shader" />
      <None Include="Assets\GoogleVR\Distortion\GvrDistortion.cginc" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\GlowConeTap.shader" />
+     <None Include="Assets\Audio\sox-14.4.2\libsox.txt" />
      <None Include="Assets\SampleAssets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Rogo Digital\LipSync Pro\Examples\Models\GRFL_Head_Liza\readme.txt" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\SunShaftsComposite.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\ColorCorrectionCurves.shader" />
      <None Include="Assets\SampleAssets\Effects\LightShafts\Shaders\SamplePositions.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_Antialiasing\NFAA.shader" />
+     <None Include="Assets\Audio\sox-14.4.2\sox.txt" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\SampleAssets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+     <None Include="Assets\Audio\sox-14.4.2\soxi.txt" />
      <None Include="Assets\GoogleVR\Legacy\Resources\UnlitTexture.shader" />
      <None Include="Assets\SampleAssets\Effects\LightShafts\Shaders\Shared.cginc" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\MotionBlur.shader" />
@@ -312,6 +315,7 @@
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\SampleAssets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\_DepthOfField\TiltShift.shader" />
+     <None Include="Assets\Audio\sox-14.4.2\README.osx.txt" />
      <None Include="Assets\Shaders\Outlined_Diffuse.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\SSAOShader.shader" />
      <None Include="Assets\SampleAssets\Effects\ParticleSystems\ParticleSystemsGuidelines.txt" />
@@ -323,6 +327,7 @@
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\GlowEffectDownsample.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\CreaseApply.shader" />
      <None Include="Assets\SampleAssets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+     <None Include="Assets\Audio\sox-14.4.2\LICENSE.GPL.txt" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\SampleAssets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\GlobalFog.shader" />
@@ -376,6 +381,7 @@
      <None Include="Assets\SampleAssets\Environment\Water (Pro Only)\Shaders\FXWaterV4Pro.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest-Cardboard.xml" />
      <None Include="Assets\SampleAssets\Vehicles\RollerBall\RollerBallGuidelines.txt" />
+     <None Include="Assets\Audio\sox-14.4.2\soxformat.txt" />
      <None Include="Assets\GoogleVR\Legacy\Resources\SolidColor.shader" />
      <None Include="Assets\SampleAssets\Effects\ImageEffects (Pro Only)\Shaders\SimpleClear.shader" />
      <None Include="Assets\SampleAssets\Effects\LightShafts\LightShaftsGuidelines.txt" />
@@ -396,7 +402,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/JamesGomatos/Desktop/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/Weston/Desktop/VRBuildA/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
