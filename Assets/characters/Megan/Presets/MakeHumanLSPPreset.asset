@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: MakeHumanLSPPreset
+  m_EditorClassIdentifier: 
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 19.6
+    - blendableNumber: 34
+      blendableName: mouth_corner_up_left (34)
+      weight: 65
+    - blendableNumber: 35
+      blendableName: mouth_corner_up_right (35)
+      weight: 68
+    bones: []
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 15
+    - blendableNumber: 32
+      blendableName: mouth_corner_in_left (32)
+      weight: 51
+    - blendableNumber: 33
+      blendableName: mouth_corner_in_right (33)
+      weight: 52.3
+    - blendableNumber: 34
+      blendableName: mouth_corner_up_left (34)
+      weight: 47.4
+    - blendableNumber: 35
+      blendableName: mouth_corner_up_right (35)
+      weight: 49.7
+    - blendableNumber: 20
+      blendableName: lips_mid_lower_down_right (20)
+      weight: 61.4
+    - blendableNumber: 19
+      blendableName: lips_mid_lower_down_left (19)
+      weight: 58.2
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables:
+    - blendableNumber: 27
+      blendableName: lips_part (27)
+      weight: 69.6
+    - blendableNumber: 38
+      blendableName: mouth_narrow_left (38)
+      weight: 88.9
+    - blendableNumber: 39
+      blendableName: mouth_narrow_right (39)
+      weight: 83.6
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 12.4
+    bones: []
+  - phonemeName: O
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 36.6
+    - blendableNumber: 38
+      blendableName: mouth_narrow_left (38)
+      weight: 87.3
+    - blendableNumber: 39
+      blendableName: mouth_narrow_right (39)
+      weight: 86.3
+    bones: []
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 8.8
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 14.7
+    - blendableNumber: 17
+      blendableName: lips_lower_in (17)
+      weight: 66.7
+    - blendableNumber: 29
+      blendableName: lips_upper_out (29)
+      weight: 72.9
+    - blendableNumber: 38
+      blendableName: mouth_narrow_left (38)
+      weight: 66
+    - blendableNumber: 39
+      blendableName: mouth_narrow_right (39)
+      weight: 64.4
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 30.4
+    - blendableNumber: 15
+      blendableName: cheek_up_left (15)
+      weight: 69.3
+    - blendableNumber: 29
+      blendableName: lips_upper_out (29)
+      weight: 66
+    - blendableNumber: 35
+      blendableName: mouth_corner_up_right (35)
+      weight: 30.7
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables:
+    - blendableNumber: 25
+      blendableName: lips_mid_upper_up_left (25)
+      weight: 35.7
+    - blendableNumber: 26
+      blendableName: lips_mid_upper_up_right (26)
+      weight: 18.6
+    - blendableNumber: 19
+      blendableName: lips_mid_lower_down_left (19)
+      weight: 17.3
+    - blendableNumber: 20
+      blendableName: lips_mid_lower_down_right (20)
+      weight: 16.7
+    - blendableNumber: 38
+      blendableName: mouth_narrow_left (38)
+      weight: 36.3
+    - blendableNumber: 39
+      blendableName: mouth_narrow_right (39)
+      weight: 36.6
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 2
+    bones: []
+  - phonemeName: WQ
+    phoneme: 0
+    blendables:
+    - blendableNumber: 39
+      blendableName: mouth_narrow_right (39)
+      weight: 67
+    - blendableNumber: 38
+      blendableName: mouth_narrow_left (38)
+      weight: 68
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 6.2
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables:
+    - blendableNumber: 40
+      blendableName: mouth_open (40)
+      weight: 2.9
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables: []
+    bones: []
+  - emotion: Serious
+    blendables: []
+    bones: []
+  - emotion: Eyebrows Up
+    blendables: []
+    bones: []
+  - emotion: Sad
+    blendables: []
+    bones: []
