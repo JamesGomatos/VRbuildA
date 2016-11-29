@@ -257,6 +257,7 @@
      <Compile Include="Assets\SampleAssets\Vehicles\RollerBall\Scripts\BallUserControl.cs" />
      <Compile Include="Assets\ScreenFader\ScreenFadeControl.cs" />
      <Compile Include="Assets\ScreenFader\ScreenFader.cs" />
+     <Compile Include="Assets\Scripts\PathFollower.cs" />
      <Compile Include="Assets\Scripts\Persistance.cs" />
      <Compile Include="Assets\Scripts\SceneTransition.cs" />
      <None Include="Assets\Rogo Digital\LipSync Pro\Examples\Models\GRFL_Head_Liza\Shaders\DoubleSided_Alpha-Diffuse.shader" />
@@ -402,7 +403,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/Weston/Desktop/VRBuildA/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/JamesGomatos/Desktop/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
