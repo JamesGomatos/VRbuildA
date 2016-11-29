@@ -403,7 +403,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/JamesGomatos/Desktop/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/Weston/Desktop/VRBuildA/VRbuildA/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

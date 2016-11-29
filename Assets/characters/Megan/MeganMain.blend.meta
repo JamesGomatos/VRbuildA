@@ -473,6 +473,10 @@ ModelImporter:
     4300062: GZM_Tongue
     4300064: GZM_CircleHips
     7400000: Default Take
+    7400002: Crying
+    7400004: MeganLayDown
+    7400006: MeganSit
+    7400008: Wencing
     9500000: //RootNode
     13700000: Megan_Body
     13700002: Megan_High-poly
